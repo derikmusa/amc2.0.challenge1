@@ -1,0 +1,43 @@
+a:link {
+    color: black;
+    text-decoration-line: none;
+}
+
+a:active {
+    color:blue;
+    text-decoration-line: underline;
+}
+html body {
+    min-height: 100%; 
+    padding: 0;  
+}
+
+.logo img {
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: px;
+    margin-top: 200px;
+}
+
+.search input {
+    border-radius: 15px;
+    height: 30px;
+    width: 400px;
+    background-color: transparent;
+    margin-left: 450px;
+    
+}
+
+.menu {
+    padding: 20px;
+    margin-top: 70px;
+    margin-left: 500px;
+}
+.sign {
+    margin-left: 100px;
+}
+
+p{
+    color: blue;
+    
+}
